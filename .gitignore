@@ -1,0 +1,25 @@
+ECHO is on.
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Database
+*.sqlite3
+dbsquilite/
+
+# Django migrations
+*/migrations/*.pyc
+*/migrations/*.py
+
+# Environment / secrets
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
