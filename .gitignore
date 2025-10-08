@@ -23,3 +23,4 @@ dbsquilite/
 # OS files
 .DS_Store
 Thumbs.db
+crudProject/crudProject/__pycache__/settings.cpython-312.pyc
